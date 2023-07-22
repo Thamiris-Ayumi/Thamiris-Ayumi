@@ -26,8 +26,7 @@
   
   <hr>
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Thamiris-Ayumi/count.svg" /></p>
-  
-  ![snake gif](https://github.com/Thamiris-Ayumi/Thamiris-Ayumi/blob/output/github-contribution-grid-snake.svg)
+
   <hr>
   
   
