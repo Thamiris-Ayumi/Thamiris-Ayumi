@@ -1,4 +1,7 @@
-### Hi there! Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   
+  <hr>
+  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Thamiris-Ayumi/count.svg"/></p>
+  
 <div align="center">
   <a href="https://github.com/Thamiris-Ayumi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thamiris-Ayumi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,11 +27,7 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
   
-  <hr>
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Thamiris-Ayumi/count.svg" /></p>
-
-  <hr>
-  
-  
+  <!--🦶FOOTER--> 
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
   
   ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
