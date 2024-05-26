@@ -2,17 +2,22 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=F4BCC4&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
-  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Thamiris-Ayumi/count.svg"/></p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Thamiris-Ayumi/count.svg"/></p>
   
 <div align="center">
   <a href="https://github.com/Thamiris-Ayumi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thamiris-Ayumi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamiris-Ayumi&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thamiris-Ayumi&show_icons=true&bg_color=000000&title_color=F4BCC4&text_color=F4BCC4&icon_color=F4BCC4&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamiris-Ayumi&layout=compact&bg_color=000000&title_color=F4BCC4&text_color=F4BCC4&icon_color=F4BCC4&langs_count=7"/>
+  </a>
 </div>
+
 
 <hr>
 
-### Languages and Tools:
+<div align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=1000&color=F4BCC4&center=true&vCenter=true&random=false&width=435&lines=Languages+and+Tools:" alt="Typing SVG" /></a>
+</div>
+
 <div style="display: inline_block" align="center"><br>
 
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -32,10 +37,11 @@
   <img align="center" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  
+
+  <br><br>
   
   <!--🦶FOOTER--> 
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  <!--<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">--> 
 
   <hr>
   
